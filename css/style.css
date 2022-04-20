@@ -6,3 +6,6 @@ p {
     width: 100px;
     object-fit: cover;
   }
+h1 {
+    padding-right: 10px;
+}
