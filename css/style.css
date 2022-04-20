@@ -2,4 +2,7 @@ p {
     font-size:78px;
     align-items: flex-end;
 }
-
+.home-image {
+    width: 100px;
+    object-fit: cover;
+  }
