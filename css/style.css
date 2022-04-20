@@ -9,3 +9,9 @@ p {
 h1 {
     padding-right: 10px;
 }
+.resorts-container5 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
