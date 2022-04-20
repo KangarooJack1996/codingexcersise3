@@ -1,6 +1,7 @@
 p {
     font-size:78px;
     align-items: flex-end;
+    font-family: sans-serif;
 }
 .home-image {
     width: 100px;
@@ -8,6 +9,7 @@ p {
   }
 h1 {
     padding-right: 10px;
+    font-family: monospace;
 }
 .resorts-container5 {
     align-items: center;
@@ -15,3 +17,4 @@ h1 {
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
   }
+
