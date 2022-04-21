@@ -1,0 +1,21 @@
+p {
+    font-size:78px;
+    align-items: flex-end;
+    font-family: sans-serif;
+}
+.home-image {
+    width: 100px;
+    object-fit: cover;
+  }
+h1 {
+    padding-right: 10px;
+    font-family: monospace;
+}
+.resorts-container5 {
+    align-items: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+
+
